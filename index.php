@@ -10,3 +10,4 @@
 </html>
 <?php
 echo "hello yu";
+echo phpinfo();
