@@ -10,4 +10,4 @@
 </html>
 <?php
 echo "hello yu";
-echo phpinfo();
+echo "最难的选择";
