@@ -4,7 +4,7 @@
 $secret = "gittest";
 // Path to your respostory on your server.
 // e.g. "/var/www/respostory"
-$path = "/www/wwwroot/git";
+$path = "/www/wwwroot/gittest.5cflame.com";
 // Headers deliveried from GitHub
 $signature = $_SERVER['HTTP_X_HUB_SIGNATURE'];
 if ($signature) {

@@ -9,6 +9,4 @@
 </body>
 </html>
 <?php
-echo "hello yu";
-echo "最难的选择";
-echo 'zuijiandna';
+echo "杨小垒";
